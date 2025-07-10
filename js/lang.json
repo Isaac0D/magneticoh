@@ -1,0 +1,170 @@
+{
+    "es": {
+        "idiomaButtonI": "EN",
+        "idiomaButtonE": "",
+
+        "proyectosNav": "Proyectos",
+        "sobreNav": "Sobre Nosotros",
+        "contactoNav": "Contactanos",
+
+        "copyBrand": "Make your brand the next big thing",
+        "branContacto": " Contactanos ",
+
+        "proyectosTitulo":"Proyectos",
+        "portafolioMarcas": " Portafolio de marcas ",
+
+        "sobreNosotrosTitulo": "Sobre Nosotros",
+        "sobreNosotrosTexto": "Magneticoh es un estudio creativo ubicado en Ciudad Juárez y El Paso.",
+        "sobreNosotrosTexto2": "Desde 2019, nuestro equipo interdisciplinario ha desarrollado exitosamente más de 300 proyectos de branding en sectores como gastronomía, entretenimiento, salud, asociaciones civiles, city branding y marcas personales.",
+        "sobreNosotrosTexto3": "Creatividad estratégica ejecutada con precisión técnica.",
+
+        "contactoTitulo": "¿Quieres llevar",
+        "contactoTitulo2":"a cabo tu proyecto?",
+        "contactoTexto": "Estamos listos para crear contigo.",
+        "contactoTexto2": "Cuéntanos tu proyecto, completa el formulario y comencemos.",
+
+        "placeNombre": "Nombre *",
+        "placeCorreo": "Correo *",
+        "placeTelefono": "Teléfono *",
+        "placeDesProyecto": "Describe tu proyecto",
+        "botonEnviar": "Enviar",
+
+        "footerTexto": "© Todos los derechos reservados",
+
+
+
+        "inicioNav": "Inicio",
+        "allProyectsNav": "Todos los proyectos",
+
+        "tituloProyecto": "Conoce nuestro trabajo",
+        "textoProyecto": "Descubre cómo nuestras estrategias creativas han ayudado a nuestros clientes a destacar y alcanzar sus objetivos.",
+        "textoProyecto2": "Cada uno de los proyectos refleja nuestro compromiso con la calidad, la innovación y la creación de soluciones personalizadas. Explora nuestro portafolio lleno de marcas que magnetizan.",
+
+        "todoFiltro": "Marcas",
+        "marcaFiltro": "Marcas",
+        "campanasFiltro": "Campañas",
+        "animacionFiltro": "Animación",
+        "videoFiltro": "Video",
+        "fotografiaFiltro": "Fotografía",
+        "paginaWebFiltro": "Página Web",
+
+        "atomosferaTitulo": "Arquitectura y construcción.",
+        "barraTitulo": "",
+        "gazproTitulo": "Gasolinera con fuerte presencia en el norte de México.",
+        "haciendaNohcTitulo": "Ubicada en Yucatán.Una identidad inspirada en la riqueza cultural maya y la belleza natural de la región, reinterpretada desde una perspectiva contemporánea.",
+        "yellowBirdTitulo": "Café y coworking.",
+        "sunnyBobbaTitulo": "",
+        "amatoTitulo": "",
+        "letsGolfTitulo": "",
+        "studioSieteTitulo": "",
+        "tresSesentaTitulo": "",
+
+
+
+        "marcaTituloInd": "Marca",
+        "campanaTituloInd": "Campaña",
+        "animacionTituloInd": "Animación",
+        "videoTituloInd": "Video",
+        "fotografiaTituloInd": "Fotografía",
+        "paginaWebTituloInd": "Página Web",
+
+        "sobreProyectoTitulo": "Sobre el proyecto",
+
+        
+        "textoProyectoAmato": "",
+        "textoProyectoAtmosfera": "Arquitectura y construcción. Una identidad sólida que comunica estructura, precisión y visión contemporánea. Refleja el equilibrio entre funcionalidad, técnica y estilo propio. La forma sigue a la función.",
+        "textoProyectoBarraNegra": "",
+        "textoProyectoGazPro": "Gasolinera con fuerte presencia en el norte de México. Una identidad dinámica que refleja el crecimiento acelerado del paisaje urbano en la región.",
+        "textoProyectoHaciendaNohchakan": "Ubicada en Yucatán. Una identidad inspirada en la riqueza cultural maya y la belleza natural de la región, reinterpretada desde una perspectiva contemporánea.",
+        "textoProyectoLetsGolf": "",
+        "textoProyectosStudioSiete": "",
+        "textoProyectosSunnyBobba" : "",
+        "textoProyectosTresSesenta": "",
+        "textoProyectosYellowBird": "Café y coworking. Una identidad visual cálida y contemporánea que invita a conectar, trabajar y crear en un espacio lleno de energía creativa, café de calidad y ambiente relajado."
+
+    },
+
+
+    "en": {
+        "idiomaButtonI": "",
+        "idiomaButtonE": "ES",
+
+        "proyectosNav": "Projects",
+        "sobreNav": "About Us",
+        "contactoNav": "Contact Us",
+
+        "copyBrand": "Make your brand the next big thing",
+        "branContacto": " Contact Us ",
+        
+        "proyectosTitulo":"Projects",
+        "portafolioMarcas":" Brand Portfolio ",
+
+        "sobreNosotrosTitulo": "About Us",
+        "sobreNosotrosTexto": "Magneticoh is a creative studio based in Ciudad Juárez and El Paso.",
+        "sobreNosotrosTexto2": "Since 2019, our interdisciplinary team has successfully developed over 300 branding projects across industries such as gastronomy, entertainment, healthcare, non-profits, city branding, and personal brands.",
+        "sobreNosotrosTexto3": "Strategic creativity crafted through technical precision.",
+
+        "contactoTitulo": "Do you want to carry",
+        "contactoTitulo2":"out your project?",
+        "contactoTexto": "We’re ready to create with you.",
+        "contactoTexto2": "Tell us about your project, fill out the form, and let’s get started.",
+        
+        "placeNombre": "Name *",
+        "placeCorreo": "Mail *",
+        "placeTelefono": "Phone *",
+        "placeDesProyecto": "Describe your project",
+        "botonEnviar": "Send",
+
+        "footerTexto": "© All rights reserved ",
+
+
+
+        "inicioNav": "Home",
+        "allProyectsNav": "All the projets",
+        "tituloProyecto": "Discover our work",
+        "textoProyecto": "Find out how our creative strategies have helped our clients stand out and achieve their goals.",
+        "textoProyecto2": "Each of the projects reflects our commitment to quality, innovation and the creation of customized solutions. Explore our portfolio full of magnetizing brands.",
+
+        "todoFiltro": "Brands",
+        "marcaFiltro": "Brands",
+        "campanasFiltro": "Campaign",
+        "animacionFiltro": "Animation",
+        "videoFiltro": "Video",
+        "fotografiaFiltro": "Photo",
+        "paginaWebFiltro": "Web Page",
+
+        "atomosferaTitulo": "Architecture and construction.",
+        "barraTitulo": "",
+        "gazproTitulo": "Gas station with strong presence in northern Mexico.",
+        "haciendaNohcTitulo": "Located in Yucatán. An identity inspired by the Mayan cultural heritage and natural beauty of the region, reinterpreted from a contemporary perspective.",
+        "yellowBirdTitulo": "Café and coworking.",
+        "sunnyBobbaTitulo": "",
+        "amatoTitulo": "",
+        "letsGolfTitulo": "",
+        "studioSieteTitulo": "",
+        "tresSesentaTitulo": "",
+
+
+
+        "marcaTituloInd": "Brand",
+        "campanaTituloInd": "Campaign",
+        "animacionTituloInd": "Animation",
+        "videoTituloInd": "Video",
+        "fotografiaTituloInd": "Photography",
+        "paginaWebTituloInd": "Web Page",
+
+        "sobreProyectoTitulo": "About the project",
+
+        "textoProyectoAmato": "",
+        "textoProyectoAtmosfera": "Architecture and construction. A solid identity that conveys structure, precision, and contemporary vision. It reflects the balance between functionality, technical rigor, and distinctive style. Form follows function.",
+        "textoProyectoBarraNegra": "",
+        "textoProyectoGazPro": "Gas station with strong presence in northern Mexico. A dynamic identity reflecting the accelerated growth of the region's urban landscape.",
+        "textoProyectoHaciendaNohchakan": "Located in Yucatán. An identity inspired by the Mayan cultural heritage and natural beauty of the region, reinterpreted from a contemporary perspective.",
+        "textoProyectoLetsGolf": "",
+        "textoProyectosStudioSiete": "",
+        "textoProyectosSunnyBobba" : "",
+        "textoProyectosTresSesenta": "",
+        "textoProyectosYellowBird": "Café and coworking. A warm, contemporary visual identity that invites connection, work, and creativity in a space filled with creative energy, quality coffee, and a relaxed atmosphere."
+
+    }
+}
